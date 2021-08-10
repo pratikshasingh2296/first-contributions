@@ -10,6 +10,7 @@
 - [Harsh Kasodariya](https://github.com/harshkaso)
 - [Samyak Jain! : )](https://github.com/samyak1409/)
 - [sereno](https://github.com/sereno1987)
+- [Pratiksha Singh](https://github.com/pratikshasingh2296)
 - [Rahul](https://github.com/Rahul-go1503/)
 - [Cory Schmidt](https://github.com/schmcory)
 - [Lucky Choudhary](https://github.com/luckych8080)
